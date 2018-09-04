@@ -6,7 +6,7 @@ for(var i = 1; i < 100 +1 ; i ++)
     {
         console.log('fizz');
     }
-    else if(i % 5 == 0)
+    else if(i % 5 == 0 && i % 3 != 0)
     {
         console.log('buzz');
     }
