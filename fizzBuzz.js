@@ -1,4 +1,4 @@
-// Ethan Treece fizz buzz attempt.
+// Ethan Treece fizz buzz.
 
 for(var i = 1; i < 100 + 1; i ++)
 {
